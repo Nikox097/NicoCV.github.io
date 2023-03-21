@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://fondosmil.com/fondo/456.jpg");
+    background-attachment: fixed;
+    background-color: rgb(34, 34, 34);
+}
+
+#portada{
+    background: rgb(233, 233, 233);    
+}
+
+label{
+    font-family: 'Poppins', sans-serif;
+}
+
+#titulo{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#nombreCompleto{
+    margin-bottom: 20%;
+    font-size: 300%;
+}
+
+h3{
+    margin-top: 25px;
+}
+
+h5{
+    margin-top: 25px;
+    text-decoration: underline 3px;
+}
+
+#textoLeftColumn{
+    color: white; /*color del texto*/
+     /*color de la columna, el usuario puede cambiarlo*/
+}
+
+.centrarBordear {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 5px solid white;
+}
+
+#margenIZQ{
+    margin: 10%;
+}
+
+#margenDER{
+    margin: 10%;
+}
